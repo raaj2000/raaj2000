@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m currently working on  <br>- Building AI-powered applications using Machine Learning  <br>- Developing RAG (Retrieval-Augmented Generation) based systems  <br><br>👯 I’m looking to collaborate on  <br>- Generative AI projects  <br>- Open-source ML / NLP applications  <br>- Real-world AI solutions  <br><br>🤝 I’m looking for help with  <br>- Scaling RAG applications  <br>- Improving model performance and deployment  <br><br>🌱 I’m currently learning  <br>- RAG (Retrieval-Augmented Generation) systems  <br>- Generative AI & LLM integration  <br>- LangChain and vector databases  <br><br>💬 Ask me about  <br>- Machine Learning basics  <br>- Python for AI  <br>- Building beginner-friendly AI projects  <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into real AI applications 🚀
 
-
+ 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drs.25wsu@gmail.com) 
 
